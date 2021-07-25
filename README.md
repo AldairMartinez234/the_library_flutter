@@ -1,16 +1,135 @@
 # The_Library
 
-A new Flutter project.
 
-## Getting Started
+En la fig.1 podemos ver la pantalla de inicio de la aplicación, donde se nos muestran todos los libros agregados.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Si presionamos el botón inferior que se encuentra en la parte derecha de nuestra pantalla de inicio (fig.1) con el icono de +, se nos mostrara un formulario donde podemos agregar un nuevo libro, así como se muestra en la fig.2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El formulario cuenta con validaciones donde no permite ingresar números en los campos name y auhor, como tampoco no permite campos vacíos o sin seleccionar, así como se puede ver en la fig.3. Si todos los campos son correctos nos regresara a la pantalla de inicio de nuestra aplicación (fig.1) y podremos visualizar que se agregó correctamente el libro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Al seleccionar un libro de la ventana de inicio, nos mandara a una nueva ventana donde podemos ver los detalles del libro seleccionado y se nos muestra 2 opciones en forma de botón, así como se puede ver en la fig.4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Así como se muestra en la fig.4 donde tenemos dos botones en la parte inferior, donde si oprimimos en botón delete este nos eliminará el libro y nos regresará a la pantalla de inicio con a la lista actualizada de libros y se podrá verificar que se borro correctamente. Y si oprimimos en el botón edit se nos mostrara una nueva ventana donde tendremos un formulario que se rellenara de manera automática con la información del libro a editar, así como se muestra en la fig.5.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Este formulario esta validada cuenta con las mismas validaciones que no permite números en los campos name y auhor, como tampoco permite campos vacíos. Y cuando se guardan los cambios nos regresara a la ventana de inicio donde podemos comprobar que se actualizo correctamente 
