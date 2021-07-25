@@ -1,9 +1,12 @@
 # The_Library
 
 
-En la fig.1 podemos ver la pantalla de inicio de la aplicación, donde se nos muestran todos los libros agregados.
+En la fig.1 podemos ver la pantalla de inicio de la aplicaciÃ³n, donde se nos muestran todos los libros agregados.
 
 
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/pLJmgrx/Captura.png" alt="Captura" border="0" /></a>
+</p>
 
 
 
@@ -47,11 +50,14 @@ En la fig.1 podemos ver la pantalla de inicio de la aplicación, donde se nos mue
 
 
 
+Si presionamos el botÃ³n inferior que se encuentra en la parte derecha de nuestra pantalla de inicio (fig.1) con el icono de +, se nos mostrara un formulario donde podemos agregar un nuevo libro, asÃ­ como se muestra en la fig.2.
 
 
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/K0F0Gj3/Captura2.png" alt="Captura2" border="0" /></a>
+</p>
 
 
-Si presionamos el botón inferior que se encuentra en la parte derecha de nuestra pantalla de inicio (fig.1) con el icono de +, se nos mostrara un formulario donde podemos agregar un nuevo libro, así como se muestra en la fig.2.
 
 
 
@@ -82,13 +88,16 @@ Si presionamos el botón inferior que se encuentra en la parte derecha de nuestra
 
 
 
+El formulario cuenta con validaciones donde no permite ingresar nÃºmeros en los campos name y auhor, como tampoco no permite campos vacÃ­os o sin seleccionar, asÃ­ como se puede ver en la fig.3. Si todos los campos son correctos nos regresara a la pantalla de inicio de nuestra aplicaciÃ³n (fig.1) y podremos visualizar que se agregÃ³ correctamente el libro
 
 
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qy4HMP0/Captura3.png" alt="Captura3" border="0" /></a>
+</p>
 
 
 
 
-El formulario cuenta con validaciones donde no permite ingresar números en los campos name y auhor, como tampoco no permite campos vacíos o sin seleccionar, así como se puede ver en la fig.3. Si todos los campos son correctos nos regresara a la pantalla de inicio de nuestra aplicación (fig.1) y podremos visualizar que se agregó correctamente el libro
 
 
 
@@ -126,8 +135,12 @@ El formulario cuenta con validaciones donde no permite ingresar números en los c
 
 
 
+Al seleccionar un libro de la ventana de inicio, nos mandara a una nueva ventana donde podemos ver los detalles del libro seleccionado y se nos muestra 2 opciones en forma de botÃ³n, asÃ­ como se puede ver en la fig.4
 
 
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/V3CWF1H/Captura4.png" alt="Captura4" border="0" /></a>
+</p>
 
 
 
@@ -136,7 +149,6 @@ El formulario cuenta con validaciones donde no permite ingresar números en los c
 
 
 
-Al seleccionar un libro de la ventana de inicio, nos mandara a una nueva ventana donde podemos ver los detalles del libro seleccionado y se nos muestra 2 opciones en forma de botón, así como se puede ver en la fig.4
 
 
 
@@ -177,9 +189,13 @@ Al seleccionar un libro de la ventana de inicio, nos mandara a una nueva ventana
 
 
 
+AsÃ­ como se muestra en la fig.4 donde tenemos dos botones en la parte inferior, donde si oprimimos en botÃ³n delete este nos eliminarÃ¡ el libro y nos regresarÃ¡ a la pantalla de inicio con a la lista actualizada de libros y se podrÃ¡ verificar que se borrÃ³ correctamente. Y si oprimimos en el botÃ³n edit se nos mostrara una nueva ventana donde tendremos un formulario que se rellenara de manera automÃ¡tica con la informaciÃ³n del libro a editar, asÃ­ como se muestra en la fig.5.
 
 
 
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TtbwM9J/Captura5.png" alt="Captura5" border="0" /></a>
+</p>
 
 
 
@@ -188,7 +204,6 @@ Al seleccionar un libro de la ventana de inicio, nos mandara a una nueva ventana
 
 
 
-Así como se muestra en la fig.4 donde tenemos dos botones en la parte inferior, donde si oprimimos en botón delete este nos eliminará el libro y nos regresará a la pantalla de inicio con a la lista actualizada de libros y se podrá verificar que se borró correctamente. Y si oprimimos en el botón edit se nos mostrara una nueva ventana donde tendremos un formulario que se rellenara de manera automática con la información del libro a editar, así como se muestra en la fig.5.
 
 
 
@@ -228,16 +243,4 @@ Así como se muestra en la fig.4 donde tenemos dos botones en la parte inferior, 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Este formulario esta validada cuenta con las mismas validaciones que no permite números en los campos name y auhor, como tampoco permite campos vacíos. Y cuando se guardan los cambios nos regresara a la ventana de inicio donde podemos comprobar que se actualizo correctamente 
+Este formulario esta validada cuenta con las mismas validaciones que no permite nÃºmeros en los campos name y auhor, como tampoco permite campos vacÃ­os. Y cuando se guardan los cambios nos regresara a la ventana de inicio donde podemos comprobar que se actualizo correctamente 
